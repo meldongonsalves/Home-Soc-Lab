@@ -61,11 +61,6 @@ the full network diagram and IP scheme.
 - Purple teaming: Atomic Red Team, MITRE ATT&CK technique mapping, detection gap analysis
 - Documentation: snapshotting, note-taking and structured write-ups for repeatability
 
-## Screenshots
-
-See [`screenshots/`](screenshots) — network diagram, Splunk searches, and
-event detail captures for each stage of the build.
-
 ## Related work
 
 A second, separate home lab covering OT/SCADA protocol analysis, active
