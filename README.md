@@ -1,4 +1,4 @@
-# Home SOC Lab — Active Directory Attack Detection
+# Home SOC Lab: Active Directory Attack Detection
 
 A self-built, self-hosted Security Operations Centre (SOC) lab used to practise
 attacking and defending a small Windows domain environment. The lab covers
